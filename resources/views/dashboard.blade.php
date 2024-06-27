@@ -22,8 +22,5 @@
             </div>
         </div>
     </div>
-    <div class="container">
-        CIAO
-    </div>
 </div>
 @endsection
